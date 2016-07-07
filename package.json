@@ -9,8 +9,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "async": "^1.5.2",
     "express": "^4.13.4",
-    "kew": "^0.7.0"
+    "kew": "^0.7.0",
+    "node-uuid": "^1.4.7",
+    "redis": "^2.6.2",
+    "sleep": "^3.0.1"
   },
   "devDependencies": {
     "chai": "^3.5.0",

